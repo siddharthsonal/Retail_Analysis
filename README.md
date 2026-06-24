@@ -180,7 +180,7 @@ Retail-Analytics-Case-Study/
 
 ---
 
-## Author
+## Skills Demonstrated
 
 Retail Analytics Case Study developed as an end-to-end Data Analytics project demonstrating skills in:
 
@@ -189,3 +189,15 @@ Retail Analytics Case Study developed as an end-to-end Data Analytics project de
 * Data Visualization
 * Business Intelligence
 * Power BI Dashboard Development
+
+---
+
+## 👤 Author
+
+**Siddharth Sonal**
+
+Aspiring Data Analyst | SQL | Python | Power BI
+
+GitHub: https://github.com/siddharthsonal
+
+LinkedIn: *(linkedin.com/in/siddharth-sonal)*
